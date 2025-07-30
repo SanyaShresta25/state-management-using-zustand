@@ -9,7 +9,7 @@ A simple, responsive todo app built using:
 
 ---
 
-## 🛠️ Features
+##  Features
 
 * Fetch todos from remote API
 * Display todos with completion status
@@ -19,7 +19,7 @@ A simple, responsive todo app built using:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
@@ -37,7 +37,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🧱 Folder Structure
+##  Folder Structure
 
 ```
 .
@@ -57,7 +57,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🧠 How Zustand is Used
+##  How Zustand is Used
 
 * `count`: a simple counter with an increment function
 * `todos`: todos fetched from the DummyJSON API
@@ -69,7 +69,7 @@ const { todos, setTodos } = useStore()
 
 ---
 
-## 🔗 API Used
+##  API Used
 
 **GET** `https://dummyjson.com/todos`
 
@@ -86,7 +86,7 @@ Returns:
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Tech          | Purpose                   |
 | ------------- | ------------------------- |
