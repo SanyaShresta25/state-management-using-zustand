@@ -2,11 +2,10 @@
 
 A simple, responsive todo app built using:
 
-![Zustand](https://img.shields.io/badge/Zustand-%F0%9F%A7%A0%20State%20Manager-f3f4f6?style=flat-square&logo=zustand&logoColor=4B5563&labelColor=E5E7EB)
-![Next.js](https://img.shields.io/badge/Next.js-%E2%9A%A1%20v15%20App%20Router-f3f4f6?style=flat-square&logo=next.js&logoColor=000000&labelColor=E5E7EB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%F0%9F%8E%A8%20Utility%20First-f3f4f6?style=flat-square&logo=tailwind-css&logoColor=38B2AC&labelColor=E5E7EB)
-![DummyJSON API](https://img.shields.io/badge/DummyJSON_API-%F0%9F%8C%90%20Mock%20Todos-f3f4f6?style=flat-square&logo=json&logoColor=FBBF24&labelColor=E5E7EB)
-
+![Zustand](https://img.shields.io/badge/Zustand%20State%20Manager-ffe4ec?style=flat-square&labelColor=ffe4ec&color=ffc0cb)
+![Next.js](https://img.shields.io/badge/Next.js%20v15%20App%20Router-ffe4ec?style=flat-square&labelColor=ffe4ec&color=ffc0cb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS%20Utility%20First-ffe4ec?style=flat-square&labelColor=ffe4ec&color=ffc0cb)
+![DummyJSON API](https://img.shields.io/badge/DummyJSON_API%20Mock%20Todos-ffe4ec?style=flat-square&labelColor=ffe4ec&color=ffc0cb)
 
 ---
 
